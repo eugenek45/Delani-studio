@@ -1,0 +1,143 @@
+.welcome {
+    background-image: url("images/h_img.jpg");
+    background-position: center;
+    align-items: center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 17%;
+    padding-bottom: 17%;
+    color: white;
+    font-weight: 500;
+    font-size: large;
+  }
+  .about{
+    text-align: center;
+    padding: 70px 0;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 15%;
+  }
+  .services{
+    background-image:url("images/s_image.jpg");
+  
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    display: flex;
+    padding-left: 20%;
+  }
+  .column1 {
+    float: left;
+    width: 22%;
+    padding: 2px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row1 {
+    display: flex;
+    padding-left: 13%;
+  }
+  .portfolio h2{
+    text-align: center;
+    /*padding: 70px 0;*/
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 45%;
+  }
+  .image1{
+    position:relative;
+  }
+  .overlay {
+    position:absolute;
+    top: 0;
+    bottom:0;
+    left:0;
+    right:0;
+    height:100%;
+    width:100%;
+    opacity:0;
+    transition: .5s ease;
+    background-color: white;
+    font-size:small; 
+  }
+  .image{
+    display:block;
+    width:100%;
+    height: auto;
+  }
+  .image1:hover .overlay {
+    opacity:0.5;
+  }
+  .contact {
+    background-image: url("images/c_image.jpg");
+    background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+      text-align: center;
+  }
+  .do h2{
+    text-align: center;
+    /*padding: 70px 0;*/
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 45%;
+  }
+  h2 {
+    text-align:center;
+  }
+  p{
+    text-align:center;
+  }
+  .word{
+    color:white;
+  }
+  footer {
+    text-align: center;
+    float: left;
+    margin-top: 5px;
+    margin-left: 200px;
+  }
+  #text1{
+    width: 90%;
+    height: 50%;
+  }
+  #form{
+    opacity:0.5;
+  }
+  footer{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 350px;
+  }
+.span{
+    display: none;
+}
+.span1{
+    display: none;
+}
+.span2{
+    display: none;
+}
+
+
+
+
+
+
+
