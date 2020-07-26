@@ -9,9 +9,9 @@ Eugene Kiprotich.
 
 
 
-## Projects Purpose
 
-# Demo
+
+## Demo
 Here is a working live demo: 
 
 ## Installation instructions
