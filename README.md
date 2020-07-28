@@ -20,7 +20,7 @@ The Delani-Studios app is compatible with devices of all sizes and all OS's and 
 * HTML - for front end development
  * CSS - styling the user interface. 
  * Javascript - For the business logic. 
- * Bootstrap - for styling of the user interface.
+ * Bootstrap.
  * jQuery 
 
 ### contact information
