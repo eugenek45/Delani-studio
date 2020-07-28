@@ -11,7 +11,7 @@ Eugene Kiprotich.
 Here is a working live demo: https://eugenek45.github.io/Delani-studio/
 
 ## Installation instructions
-Open a browser, copy and paste the live demo link. It will open the landing page of the app. 
+Open a browser, copy and paste the live demo link. It will open the landing page of the app. You shall see Delani 
 
 ## Mobile support
 The Delani-Studios app is compatible with devices of all sizes and all OS's and consistent improvements are being made.
