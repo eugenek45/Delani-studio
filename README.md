@@ -18,7 +18,7 @@ The Delani-Studios app is compatible with devices of all sizes and all OS's and 
 
 ## Built With
 * HTML.
- * CSS . 
+ * CSS. 
  * Javascript. 
  * Bootstrap.
  * jQuery.
@@ -29,4 +29,4 @@ eugenekiprotich0@gmail.com
 
 # License and copyright
 Licensed under the [MIT License](LICENSE).
-Eugene Kiprotich-2020
+Eugene Kiprotich-2020 (c)
