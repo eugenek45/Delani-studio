@@ -7,10 +7,6 @@ This project is a web application for Delani studio that shows details about the
 ## Author
 Eugene Kiprotich.
 
-
-
-
-
 ## Demo
 Here is a working live demo: https://eugenek45.github.io/Delani-studio/
 
@@ -25,7 +21,7 @@ The Delani-Studios app is compatible with devices of all sizes and all OS's and 
  * CSS - styling the user interface. 
  * Javascript - For the business logic. 
  * Bootstrap - for styling of the user interface.
- * jQuery - for manupilating Html
+ * jQuery 
 
 ### contact information
 eugenekiprotich0@gmail.com
