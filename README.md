@@ -7,28 +7,26 @@ This project is a web application for Delani studio that shows details about the
 ## Author
 Eugene Kiprotich.
 
-
-
-
-
 ## Demo
-Here is a working live demo: 
+Here is a working live demo: https://eugenek45.github.io/Delani-studio/
 
 ## Installation instructions
-Open a browser, copy and paste the live demo link.It will open the landing page of the app. 
+Open a browser, copy and paste the live demo link. It will open the landing page of the app. 
 
 ## Mobile support
 The Delani-Studios app is compatible with devices of all sizes and all OS's and consistent improvements are being made.
 
 ## Built With
-* HTML - for front end development
- * CSS - styling the user interface. 
- * Javascript - For the business logic. 
- * Bootstrap - for styling of the user interface.
- * jQuery - for manupilating Html
+* HTML.
+ * CSS. 
+ * Javascript. 
+ * Bootstrap.
+ * jQuery.
+ *JS
 
 ### contact information
 eugenekiprotich0@gmail.com
 
 # License and copyright
-Eugene, kiprotich Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
+Eugene Kiprotich-2020 (c)
