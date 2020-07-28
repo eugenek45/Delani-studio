@@ -17,14 +17,16 @@ Open a browser, copy and paste the live demo link. It will open the landing page
 The Delani-Studios app is compatible with devices of all sizes and all OS's and consistent improvements are being made.
 
 ## Built With
-* HTML - for front end development
- * CSS - styling the user interface. 
+* HTML.
+ * CSS . 
  * Javascript. 
  * Bootstrap.
- * jQuery 
+ * jQuery.
+ *JS
 
 ### contact information
 eugenekiprotich0@gmail.com
 
 # License and copyright
-Eugene, kiprotich Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
+Eugene Kiprotich-2020
