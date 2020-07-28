@@ -251,7 +251,7 @@ input[type=text],input[type=email],#comment{
   font-family: 'Copse', serif;
 }
 .form-control::-webkit-input-placeholder { 
-  color: rgb(39, 35, 35); 
+  color: rgb(235, 219, 219); 
 }
 #MERGE1{
   width: 30%;
