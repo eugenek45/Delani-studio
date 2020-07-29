@@ -281,7 +281,15 @@ footer p{
   margin-top: 10px;
 }
 
-
+.show1 {
+  display: none;
+}
+.show2 {
+  display: none;
+}
+.show3 {
+  display: none;
+}
 
 
 

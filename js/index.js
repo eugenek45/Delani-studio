@@ -1,30 +1,15 @@
-//what we do section
-$(document).ready(function(){
-    $("#design-image").click(function(){
-      $("#design-image").slideDown().hide()
-      $("#design").show();
-    });
-    $("#design").click(function(){
-      $("#design").slideUp();
-      $("#design-image").slideDown();
-    });
-     $("#development-image").click(function(){
-      $("#development-image").slideDown().hide()
-      $("#development").show();
-    });
-    $("#development").click(function(){
-      $("#development").slideUp();
-      $("#development-image").slideDown();
-    });
-      $("#product-image").click(function(){
-      $("#product-image").slideDown().hide()
-      $("#product").show();
-    });
-    $("#product").click(function(){
-      $("#product").slideUp();
-      $("#product-image").slideDown();
-    });
-  });
+$(".click1").click(function () {
+  $(".hide1").slideToggle(1000);
+  $(".show1").slideToggle(1200);
+});
+$(".click2").click(function () {
+  $(".hide2").slideToggle(1000);
+  $(".show2").slideToggle(1200);
+});
+$(".click3").click(function () {
+  $(".hide3").slideToggle(1000);
+  $(".show3").slideToggle(1200);
+});
 
 // poertfolio text overlay images
 $(document).ready(function(){
